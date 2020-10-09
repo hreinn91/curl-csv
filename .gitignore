@@ -2,3 +2,7 @@
 
 ## Python virtual env
 venv
+
+
+## Output and generated files
+*.output
